@@ -6,8 +6,8 @@
       scenic Co. Meath
     </h1>
     <p>
-      In association with the Ratoath Wheelers and Ratoath Gaa we bring you Tour
-      De Meath, a cycle sportive event for all cyclist or fitness enthusiasts
+      In association with Ratoath Gaa we bring you Tour De Meath, a cycle
+      sportive event for all cyclist or fitness enthusiasts
     </p>
     <button @click="scroll">Event Info</button>
     <hr />
