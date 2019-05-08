@@ -9,14 +9,14 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "start" : "node server.js",
+    "start": "node server.js",
     "lint": "vue-cli-service lint",
     "heroku-postbuild": "echo Skip build on Heroku"
   },
   "dependencies": {
     "express": "^4.16.4",
     "heroku": "^7.21.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.1",
     "jquery-confirm": "^3.3.4",
     "stripe": "^6.23.1",
     "vue": "^2.5.22",
